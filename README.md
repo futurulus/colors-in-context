@@ -30,8 +30,7 @@ to try.
 Running experiments
 -------------------
 
-Bilingual Color References
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Bilingual Color References
 
 To re-run pre-trained monolingual and bilingual agents from Table 1, you can
 use the following commands:
@@ -45,8 +44,7 @@ Look for `eval.accuracy.mean` in the output to compare with Table 2. This
 command uses dev set results by default; add `--data_source filtered_test` to
 reproduce the test set results instead.
 
-Colors in Context
-~~~~~~~~~~~~~~~~~
+### Colors in Context
 
 To re-run the base listener L0 from the paper (Table 3) with pre-trained
 models, use:

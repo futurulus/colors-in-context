@@ -6,7 +6,7 @@ Code and supplementary material for
 * [Colors in Context: A Pragmatic Neural Model for Grounded Language
 Understanding (TACL 2017)](https://arxiv.org/abs/1703.10186)
 * [Generating Bilingual Pragmatic Color References
-NAACL 2018)](http://arxiv.org/abs/1803.03917)
+(NAACL 2018)](http://arxiv.org/abs/1803.03917)
 
 See http://cocolab.stanford.edu/datasets/colors.html for quick links to the
 datasets released with these papers.
